@@ -12,7 +12,7 @@ I'm a senior computer science major
 A browser extension that helps you stay focused by providing dopamine during your workflow. [Source Courde](https://github.com/Jcoumarb/capstone)
 `JavaScript` • `Chrome Extensions` • `Productivity`
 
-### [CSCi Tutoring](https://github.com/Jcoumarb/Tutoring)
+### [CSCI Tutoring](https://github.com/Jcoumarb/Tutoring)
 These are some demo files and images from my computer science tutoring at the University of North Carolina at Asheville.
 `Java` • `C` • `Assembly`
 
