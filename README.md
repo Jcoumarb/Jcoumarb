@@ -4,7 +4,7 @@ I'm a senior computer science major
 
 - UNCA IT Service Desk Assistant & Computer Science Tutor
 - Former Software Development Intern
-- Vim and Arch Evangelizer
+- Neovim and Arch Evangelizer
 
 ---
 
