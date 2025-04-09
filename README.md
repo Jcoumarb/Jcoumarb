@@ -6,8 +6,6 @@ I'm a senior computer science major
 - Former Software Development Intern
 - Neovim and Arch Evangelizer
 
----
-
 ## Work I'm Proud Of
 
 ### [Locked in: Gamify Your Productivity](https://chromewebstore.google.com/detail/locked-in-gamify-your-pro/hnccboffaeebpnjldbajhocanokdhjjf?utm_source=item-share-cb)
@@ -17,8 +15,6 @@ A browser extension that helps you stay focused by providing dopamine during you
 ### [CSCi Tutoring](https://github.com/Jcoumarb/Tutoring)
 These are some demo files and images from my computer science tutoring at the University of North Carolina at Asheville.
 `Java` • `C` • `Assembly`
-
----
 
 # Contact Me
 
