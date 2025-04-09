@@ -4,6 +4,7 @@ I'm a senior computer science major
 
 - UNCA IT Service Desk Assistant & Computer Science Tutor
 - Former Software Development Intern
+- Former Computer Science Supplemental Instructor
 - Neovim and Arch Evangelizer
 
 ## Work I'm Proud Of
