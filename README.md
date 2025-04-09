@@ -15,7 +15,7 @@ A browser extension that helps you stay focused by providing dopamine during you
 `JavaScript` • `Chrome Extensions` • `Productivity`
 
 ### [CSCi Tutoring](https://github.com/Jcoumarb/Tutoring)
-These are some files and images from my computer science tutoring at the University of North Carolina at Asheville.
+These are some demo files and images from my computer science tutoring at the University of North Carolina at Asheville.
 `Java` • `C` • `Assembly`
 
 ---
